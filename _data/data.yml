@@ -150,210 +150,62 @@ experiences:
             - Design Patterns: MVC
             - Methodology: Scrum
 
-      - role: Full Stack Developer
-        time: Feb 2022 - Aug 2022
-        company: Siigo, Colombia
+      - role: Webmaster
+        time: April 2021 - April 2021
+        company: Valletelco Telecomunicaciones S.A.S., Colombia
         details: |
+          Project
+          Development and maintenance of an informative, commercial, customer service, corporate website.
+
+          Description
+          I developed a website using WordPress that allows viewing and accessing company information.
+
+          Responsibilities
+            - Preparation of technical documentation.
+            - Implementation of the website.
+            - Troubleshooting.
+            - Deployment on Web Hosting.
+
+          Technical Details
+            - Languages: PHP, JavaScript
+            - Databases: MySQL
+            - Methodology: Scrum
+
+      - role: Full Stack Developer
+        time: Jul 2017 - Dec 2020
+        company: DobleClick Software e Ingenieria, Colombia
+        details: | 
           Project
           Development and maintenance of a web application for an administrative and accounting system.
 
           Description
-          I developed and maintained a web application oriented to microservices and microfrontends using C# (Net Framework, Net Core), JavaScript (Angular), and Azure DevOps that allows managing billing, credit notes, and debit notes.
+          I developed and maintained a web application oriented to MVC using PHP, JavaScript, MySQL that allows managing users, human resources, resumes, billing, payroll, services, warehouse, among many others.
 
           Responsibilities
-            - Analysis of product owner requirements.
             - Application testing.
-            - Troubleshooting.
-            - Technical documentation preparation.
+            - Bug fixing.
+            - Technical documentation elaboration.
             - Application implementation.
 
-          Technical Details
-            - Cloud computing: Azure
-            - Languages: C#, JavaScript, TypeScript
-            - Frameworks: Net Framework, Net Core, Angular, React Js
-            - Databases: SQL Server, Mongo DB, Redis
-            - Architectures: Monolithic, Microservices, Microfrontends
-            - Design patterns: CQRS, MVC
-            - Version control: Azure DevOps
-            - Methodology: Scrum
-
-      - role: Back End Developer
-        time: Jul 2021 - Jan 2022
-        company: The BitBang Company, Colombia
-        details: | 
-          Project 1 - FaceAPI
-          I developed a microservices-oriented web application using Python (Flask), Azure Face API, and Azure to determine if there are faces and their characteristics in an image.
-
-          Project 2 - ArcGIS Pro
-          I developed a microservices-oriented web application using Python, ArcGIS, Azure Blob Storage, and Azure to determine the viability of a crop in a specific field.
-
-          Project 3 - Habi
-          I developed and maintained a serverless and microfrontends web application using Python (AWS Lambda Functions), OpenAPI, and Amazon Web Services that allow users to register their properties to receive offers for them using different sources of information such as state databases, proprietary databases, and AI models.
-
-          Responsibilities
-            - Analysis of product owner requirements
-            - Application testing
-            - Unit testing
-            - Troubleshooting
-            - Monitoring of QA and production environments
-            - Application implementation
-            - Deployment to QA and production
-            - Technical support in Python language.
-
           Technical details
-            - Cloud computing: Azure, GCP and Amazon Web Services
-            - Languages: Python
-            - Frameworks: Flask
+            - Languages: PHP, JavaScript
+            - Frameworks: Zend 2
             - Databases: MySQL
-            - Architectures: Serverless, Microfrontends y Microservices
-            - Design patterns: MVC
-            - Version control: GitLab
-            - Methodology: Scrum
-
-      - role: Full Stack Developer
-        time: Dec 2019 - Jun 2021
-        company: Siigo, Colombia
-        details: |
-          Project 1 - SiigoNube
-          I developed and maintained a web application oriented to monolith, microservices, and microfrontends using C# (Net Framework, Net Core), JavaScript (Angular) with web components, and Azure DevOps that allows managing magnetic media and third parties (client, supplier, worker, or bank).
-
-          Project 2 - Contifico
-          I developed and maintained a monolithic web application using Python (Django), JavaScript (Vue Js), and Azure that allows managing profile configurations, invoices, debit/credit notes, products, etc.
-
-          Responsibilities
-            - Research and analysis of product owner requirements
-            - Application implementation
-            - Unit testing
-            - Troubleshooting
-            - Web component implementation
-
-          Technical details
-            - Cloud computing: Azure
-            - Languages: Python, JavaScript, TypeScript y C#
-            - Frameworks: Django, Vue Js, Net Framework, Net Core, React Js, Angular, Stencil Js
-            - Databases: MySQL, SQL Server, Mongo DB, Redis
-            - Architectures: Monolithic, Microservices, Microfrontends
-            - Design patterns: CQRS, MVC
-            - Version control: GitHub y Azure DevOps
-            - Methodology: Scrum
-
-      - role: Full Stack Developer
-        time: Feb 2017 - May 2018
-        company: Institución Educativa Belén, Colombia
-        details: |
-            Project
-            Development and maintenance of a web application for an academic system.
-
-            Description
-            I developed and maintained a monolithic web application using PHP (KumbiaPHP) that allows managing students, teachers, and grades for each academic period.
-
-            Responsibilities
-              - Research and analysis of client requirements
-              - Application testing
-              - Troubleshooting
-              - HTML, CSS, and JavaScript markup
-              - Implementation of the application.
-
-            Technical details
-              - Languages: JavaScript, PHP
-              - Frameworks: KumbiaPHP
-              - Databases: MySQL
-              - Architectures: Monolithic
-              - Design patterns: MVC
-              - Version control: GitHub
+            - Architectures: Monolithic
+            - Design Patterns: MVC
+            - Version Control: Gitlat, Bitbucket
+            - Methodology: Scrum  
 
 certifications:
       title: Certifications
       list:
-        - name: TDD Test-Driven Development
+        - name: EF SET Certificate
           start: 2023
           end:
-          organization: CodelyTV
+          organization: EF SET Certificate
           credentialid: 
-          credentialurl: pro.codely.com/certgen/certificate/tdd-test-driven-development-179143/6560572?sso=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoxNzkwNTY1LCJleHAiOjE3MTA2MjA0NjF9.JGnnZX5ESpavEkWs1HPLTZ8BAcqudNT_zOMV2iy_RgU
+          credentialurl: https://www.efset.org/cert/o2WFAu
           credentialname: Download certification
-          details: |
-
-        - name: Gestión Continua de la Calidad del Software con SonarQube
-          start: 2022
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-46f477c2-0476-42df-8ef2-331699eb2799/
-          credentialname: View certification
-          details: |
-
-        - name: Kubernetes sencillo para desarrolladores
-          start: 2022
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-efa3ff48-5e68-4b9e-a54f-9547cda4cddc/
-          credentialname: View certification
-          details: |
-
-        - name: Comienza con MongoDB Curso de MongoDB desde cero
-          start: 2022
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-f415e193-3e42-442e-aeaa-717ce9816c32/
-          credentialname: View certification
-          details: |
-
-        - name: Deno Js - Beginner Guide
-          start: 2022
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-b6499c47-10cd-4bee-acef-82b173e2c6ae/
-          credentialname: View certification
-          details: |
-
-        - name: Build a Backend REST API with Python & Django
-          start: 2021
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-22b987e6-cf44-4ec8-857f-9975f7191214/
-          credentialname: View certification
-          details: |
-
-        - name: Django with GraphQL
-          start: 2020
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-fae21ced-6561-41d8-8358-017f8396bdd1/
-          credentialname: View certification
-          details: |
-
-        - name: VUE JS 2 - Una Introducción a las Web Apps
-          start:  2020
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-e4d574bb-c9f2-4284-aaf2-66e60bc40270/
-          credentialname: View certification
-          details: |
-
-        - name: Aprende Docker desde Cero a Swarm y Kubernetes
-          start: 2020
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-74d88fc7-1322-4c19-aec2-32bf3cda706a/
-          credentialname: View certification
-          details: |
-
-
-        - name: JavaScript de cero hasta los detalles (ES5)
-          start: 2020
-          end:
-          organization: Udemy
-          credentialid:
-          credentialurl: www.udemy.com/certificate/UC-8eaa4db1-52a6-4ba1-a912-00396e42186e/
-          credentialname: View certification
           details: |
 
 projects:
@@ -374,16 +226,16 @@ skills:
       - name: Python
         level: 100%
 
-      - name: JavaScript
-        level: 90%
+      - name: C#
+        level: 100%
 
-      - name: Cloud
+      - name: JavaScript
         level: 80%
 
       - name: RESTful
         level: 100%
 
-      - name: GraphQL
+      - name: MySQL
         level: 90%
 
       - name: Docker
@@ -392,8 +244,8 @@ skills:
       - name: Microservices
         level: 70%
       
-      - name: Microfrontends
-        level: 60%
+      - name: Capas
+        level: 100%
 
       - name: Git
         level: 100%
@@ -402,7 +254,7 @@ skills:
         level: 100%
 
       - name: No SQL
-        level: 80%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i>
