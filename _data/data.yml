@@ -86,64 +86,69 @@ experiences:
     title: Experiences
     info:
       - role: Full Stack Integrations Engineer
-        time: Aug 2023 - Present
-        company: SimpliRoute, Chile
+        time: April 2022 - Present
+        company: Hospital Susana López de Valencia, Colombia
         details: |
           Project
-          Development of a web application that simplifies and groups corporate customer integrations.
+          Development of a web application that simplifies and groups the integrations of external users, administrative, and healthcare staff.
 
           Description
-          I developed a microservices-oriented web application using Python, MongoDB, Docker and GPC that allows to group all the specific integrations focused on logistics of SimpliRoute clients.
+          I developed a web application using a Layered Architecture approach using C#, Sql Server, .Net Framework that allows grouping all specific integrations focused on logistics of users, inventories, and maintenance of the institution's equipment and warehouse.
+
+          I developed a Web API using microservices approach using Python, Sql Server, FastApi, and Docker that allows grouping all specific integrations that facilitate the processing of procedures and online services.
+
+          I developed a Web API using microservices approach using C#, Sql Server, .Net Core, and IIS Windows that allows sending medical orders from laboratories.
+
+          I developed a Web API using microservices approach using C#, Sql Server, .Net Core, and IIS Windows that allows sending medical orders for imaging and X-rays to the PACs provider.
+
+          I developed a web application using a Layered Architecture approach using C#, Sql Server, .Net Framework, and IIS Windows that allows managing the PQRSDF, reception, processing, and final response, as well as hosting electronic documents.
+
+          There are many more developments...
 
           Responsibilities
-            - Research and analysis of Liverpool client requirements.
-            - Design of the application's architecture.
-            - Elaboration of technical documentation.
+            - Research and analysis of requirements.
+            - Design of the application architecture.
+            - Preparation of technical documentation.
             - Implementation of the application.
-            - Unit testing.
             - Bug fixing.
-            - Deployment on GCP.
+            - Deployment on IIS Windows.
 
           Technical details
-            - Cloud computing: GCP
-            - Languages: Python, TypeScript
-            - Frameworks: FastAPI
-            - Databases: MongoDB
-            - Version control: GitLab, GitHub
-            - Architectures: Microservices
-            - Design patterns: MVC
+            - Languages: Python, C#, JavaScript
+            - Frameworks: FastAPI, .Net Core, .Net Framework, Entity Framework, DevExpress
+            - Databases: Sql Server
+            - Version Control: GitLab, GitHub
+            - Architectures: Microservices, Layers
+            - Design Patterns: MVC
             - Methodology: Scrum
             - Container: Docker
 
       - role: Full Stack Developer
-        time: Sep 2022 - Aug 2023
-        company: Inndico, Colombia
+        time: June 2019 - Aug 2022
+        company: Hoteles la virgen, Colombia
         details: |
           Project
-          Development of a web application for decision making using data analysis.
+          Development of a web application that simplifies and groups client integrations.
 
           Description
-          I developed a web application focused on microservices using Python (FastAPI), JavaScript (Nest Js, React Js y Vue Js 3) and Digital Ocean that allows to visualize different graphs and their respective reports for decision making regarding the budget of a health promoting entity.
+          I developed and maintained a web application oriented to MVC using PHP, MySQL, and JavaScript that allows managing a car and motorcycle wash, parking lot, and hotel.
 
           Responsibilities
-            - Research and analysis of product owner's requirements.
-            - Design of the application's architecture.
-            - Elaboration of technical documentation.
+            - Research and analysis of client requirements for Hoteles la Virgen.
+            - Design of the application architecture.
+            - Preparation of technical documentation.
             - Implementation of the application.
-            - Unit testing.
-            - Bug fixing.
-            - Deployment on Digital Ocean.
+            - Troubleshooting.
+            - Deployment on Web Hosting.
 
           Technical details
-            - Cloud computing: Digital Ocean
-            - Languages: Python, JavaScript, TypeScript
-            - Frameworks: FastAPI, Nest Js, React Js, Vue Js
-            - Databases: SQLite3, MariaDB
-            - Version control: GitLab
-            - Architectures: Clean Architecture, Microservices
-            - Design patterns: MVC
+            - Languages: PHP, JavaScript
+            - Frameworks: Zend 2
+            - Databases: MySQL
+            - Version Control: GitLab, Bitbucket
+            - Architectures: Monolithic
+            - Design Patterns: MVC
             - Methodology: Scrum
-            - Container: Docker
 
       - role: Full Stack Developer
         time: Feb 2022 - Aug 2022
