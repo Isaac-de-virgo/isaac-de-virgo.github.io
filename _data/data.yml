@@ -232,11 +232,11 @@ skills:
       - name: JavaScript
         level: 80%
 
-      - name: RESTful
-        level: 100%
+      - name: PHP
+        level: 86%
 
-      - name: MySQL
-        level: 90%
+      - name: RESTful
+        level: 60%
 
       - name: Docker
         level: 80%
