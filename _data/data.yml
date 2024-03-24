@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Cristian Ordoñez
+    name: Jonathan Isaac Rojas Guzman
     tagline: Full Stack Developer
     avatar: # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: cristiano_ord93@hotmail.com
+    email: joirg9861@gmail.com
     phone:
     timezone: America/Bogota
     citizenship:
     website: # do not add http://
-    linkedin: cristian-ordonez
+    linkedin: isaac-rojas-guzman
     xing:
-    github: bareke
+    github: Isaac-de-virgo
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
