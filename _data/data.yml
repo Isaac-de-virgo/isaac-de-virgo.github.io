@@ -93,16 +93,22 @@ experiences:
           Development of a web application that simplifies and groups the integrations of external users, administrative, and healthcare staff.
 
           Description
+
+          Project-I
           I developed a web application using a Layered Architecture approach using C#, Sql Server, .Net Framework that allows grouping all specific integrations focused on logistics of users, inventories, and maintenance of the institution's equipment and warehouse.
 
+          Project-II
           I developed a Web API using microservices approach using Python, Sql Server, FastApi, and Docker that allows grouping all specific integrations that facilitate the processing of procedures and online services.
 
+          Project-III
           I developed a Web API using microservices approach using C#, Sql Server, .Net Core, and IIS Windows that allows sending medical orders from laboratories.
 
+          Project-IV
           I developed a Web API using microservices approach using C#, Sql Server, .Net Core, and IIS Windows that allows sending medical orders for imaging and X-rays to the PACs provider.
 
+          Project-V
           I developed a web application using a Layered Architecture approach using C#, Sql Server, .Net Framework, and IIS Windows that allows managing the PQRSDF, reception, processing, and final response, as well as hosting electronic documents.
-
+          
           There are many more developments...
 
           Responsibilities
