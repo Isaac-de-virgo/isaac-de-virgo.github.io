@@ -250,7 +250,7 @@ skills:
       - name: Microservices
         level: 70%
       
-      - name: Capas
+      - name: MVC
         level: 100%
 
       - name: Git
